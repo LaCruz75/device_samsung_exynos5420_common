@@ -1,0 +1,2 @@
+# android_device_samsung_exynos5420-common# device_samsung_exynos5420_common
+# device_samsung_exynos5420_common
